@@ -5,7 +5,7 @@ class Runner {
 	public static void main(String[] args) {
 		MyThread t1= new MyThread();
 		t1.start();
-		
+		int i;
 	}
 }
 class MyThread extends Thread{ 
